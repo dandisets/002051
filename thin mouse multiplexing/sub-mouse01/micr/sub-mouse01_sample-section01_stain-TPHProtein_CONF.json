@@ -8,11 +8,17 @@
   "SoftwareVersions": "NIS-Elements (nd2 acquisition); converted with nd2 + tifffile",
   "BodyPart": "BRAIN",
   "SampleEnvironment": "ex vivo",
-  "SampleStaining": "TPH protein",
-  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging of one thin brain section; this file is one channel of the stitched maximum intensity projection.",
-  "OtherAcquisitionParameters": "channel GREEN (488 Laser); laser 488 nm at 15% power; spinning disk confocal; acquisition date 2023-06-09 02:36:13.732004-04:00",
+  "SampleStaining": [
+    "TPH protein",
+    "DAPI (nuclear stain)"
+  ],
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging of one thin brain section; this file is one channel of the stitched maximum intensity projection. Channel 1 = marker; channel 2 = DAPI from the same acquisition (for registration across rounds).",
+  "OtherAcquisitionParameters": "channel GREEN (488 Laser); laser 488 nm at 15% power; spinning disk confocal; acquisition date 2023-06-09 02:36:13.732004-04:00 | channel 2: DAPI (405 Laser), DAPI imaged in the same acquisition as channel 1, included for cross-round registration",
   "SourceFile": "20230608_185628_503__Count00001_ChannelFAR RED (640 Laser),RED (561 Laser),GREEN (488 Laser),DAPI (405 Laser)_Seq0004-MaxIP - Stitched.nd2",
-  "SourceChannelIndex": 2,
+  "SourceChannelIndex": [
+    2,
+    3
+  ],
   "NumericalAperture": 1.3,
   "Magnification": 40.0
 }

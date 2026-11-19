@@ -2,6 +2,9 @@ thin mouse multiplexing
 
 One thin mouse brain section imaged over sequential RNA and protein staining rounds
 on a Nikon spinning-disk confocal (40x/1.3, 0.65 um/px), 4 channels per round
-(640, 561, 488, 405 nm). Each file is one channel of a stitched maximum intensity
+(640, 561, 488, 405 nm). Each file comes from a stitched maximum intensity
 projection. Stain labels end in RNA (lowercase gene names) or Protein; DAPI = nuclei.
 Images are not registered across rounds.
+Each marker file has 2 channels: channel 1 is the marker, channel 2 is the DAPI image
+from the same acquisition, included so images from different rounds can be registered
+to each other. Files with stain-DAPI contain only DAPI.

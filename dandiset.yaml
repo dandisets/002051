@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -13,8 +14,8 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 58096496839
-  numberOfFiles: 223
+  numberOfBytes: 90411307267
+  numberOfFiles: 197
   numberOfSamples: 3
   numberOfSubjects: 2
   schemaKey: AssetsSummary
@@ -32,12 +33,13 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-11-05T20:15:38.675347+00:00'
-description: 'This dataset contains high-resolution, three-dimensional fluorescence
-  microscopy images of mouse brain tissue acquired using Amplification by Cyclic Extension
-  (ACE), a highly multiplexed in situ signal amplification technology. The dataset
-  includes multichannel TIFF images of protein expression across brain tissue volumes,
+description: This dataset contains highly multiplexed fluorescence microscopy images
+  acquired with Amplification by Cyclic Extension (ACE), an in situ signal amplification
+  technology, across sequential rounds of RNA and protein staining. It includes Py2T
+  cells, a thin mouse brain section, and three-dimensional mouse brain tissue volumes,
   enabling visualization of molecular distributions, cellular architecture, and spatial
-  organization. '
+  organization.
+ethicsApproval: []
 id: DANDI:002051/draft
 identifier: DANDI:002051
 license:
@@ -46,8 +48,10 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/002051/versions/draft/assets/
 name: Highly Multiplexed 3D Fluorescence Imaging of Mouse Brain Tissue Using Amplification
   by Cyclic Extension (ACE)
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/002051/draft
 version: draft
+wasGeneratedBy: []
