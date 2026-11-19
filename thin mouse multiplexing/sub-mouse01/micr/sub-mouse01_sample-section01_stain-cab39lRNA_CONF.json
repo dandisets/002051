@@ -1,0 +1,18 @@
+{
+  "PixelSize": [
+    0.65,
+    0.65
+  ],
+  "PixelSizeUnits": "um",
+  "Manufacturer": "Nikon",
+  "SoftwareVersions": "NIS-Elements (nd2 acquisition); converted with nd2 + tifffile",
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": "cab39l RNA",
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging of one thin brain section; this file is one channel of the stitched maximum intensity projection.",
+  "OtherAcquisitionParameters": "channel GREEN (488 Laser); laser 488 nm at 30% power; spinning disk confocal; acquisition date 2023-06-03 20:19:47.107019-04:00",
+  "SourceFile": "20230603_190849_073__Count00000_ChannelFAR RED (640 Laser),RED (561 Laser),GREEN (488 Laser),DAPI (405 Laser)_Seq0000-MaxIP - Stitched.nd2",
+  "SourceChannelIndex": 2,
+  "NumericalAperture": 1.3,
+  "Magnification": 40.0
+}
