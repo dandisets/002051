@@ -1,0 +1,18 @@
+{
+  "PixelSize": [
+    0.108333333333333,
+    0.108333333333333
+  ],
+  "PixelSizeUnits": "um",
+  "Manufacturer": "Nikon",
+  "SoftwareVersions": "NIS-Elements (nd2 acquisition); converted with nd2 + tifffile",
+  "Immersion": "Oil",
+  "NumericalAperture": 1.4,
+  "Magnification": 60.0,
+  "SampleEnvironment": "in vitro",
+  "SampleStaining": "bCatenin RNA",
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging; this file is the maximum intensity projection of one channel.",
+  "OtherAcquisitionParameters": "mesenchymal well; channel RED (561 Laser); laser 561 nm; excitation 561.0 nm; emission 603.0 nm; acquisition mode spinning disk confocal; pinhole 50.0 um; acquisition date 2023-07-08 03:11:09.467005-04:00",
+  "SourceFile": "20230707_221107_788__Count00001_ChannelFAR RED (640 Laser),RED (561 Laser),GREEN (488 Laser),DAPI (405 Laser)_Seq0007-MaxIP.nd2",
+  "SourceChannelIndex": 1
+}

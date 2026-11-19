@@ -7,9 +7,19 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 20957126475
+  numberOfFiles: 103
+  numberOfSamples: 2
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Su, Hanquan (2026) Highly Multiplexed 3D Fluorescence Imaging of Mouse Brain
   Tissue Using Amplification by Cyclic Extension (ACE) (Version draft) [Data set].
   DANDI Archive. https://dandiarchive.org/dandiset/002051/draft
