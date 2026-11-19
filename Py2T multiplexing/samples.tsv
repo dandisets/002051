@@ -1,0 +1,3 @@
+sample_id	participant_id	sample_type	description
+sample-epithelial	sub-Py2T	cell line	epithelial Py2T cells (well imaged first)
+sample-mesenchymal	sub-Py2T	cell line	mesenchymal Py2T cells (well imaged second)

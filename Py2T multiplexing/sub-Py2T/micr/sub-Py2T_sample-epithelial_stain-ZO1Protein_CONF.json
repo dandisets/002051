@@ -1,0 +1,18 @@
+{
+  "PixelSize": [
+    0.108333333333333,
+    0.108333333333333
+  ],
+  "PixelSizeUnits": "um",
+  "Manufacturer": "Nikon",
+  "SoftwareVersions": "NIS-Elements (nd2 acquisition); converted with nd2 + tifffile",
+  "Immersion": "Oil",
+  "NumericalAperture": 1.4,
+  "Magnification": 60.0,
+  "SampleEnvironment": "in vitro",
+  "SampleStaining": "ZO1 protein",
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging; this file is the maximum intensity projection of one channel.",
+  "OtherAcquisitionParameters": "epithelial well; channel GREEN (488 Laser); laser 488 nm; excitation 488.0 nm; emission 535.0 nm; acquisition mode spinning disk confocal; pinhole 50.0 um; acquisition date 2023-07-09 04:51:58.344998-04:00",
+  "SourceFile": "20230708_205030_978__Count00002_ChannelFAR RED (640 Laser),RED (561 Laser),GREEN (488 Laser),DAPI (405 Laser)_Seq0009-MaxIP.nd2",
+  "SourceChannelIndex": 2
+}
