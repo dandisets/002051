@@ -10,9 +10,15 @@
   "NumericalAperture": 1.4,
   "Magnification": 60.0,
   "SampleEnvironment": "in vitro",
-  "SampleStaining": "Mfge8 RNA",
-  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging; this file is the maximum intensity projection of one channel.",
-  "OtherAcquisitionParameters": "epithelial well; channel RED (561 Laser); laser 561 nm; excitation 561.0 nm; emission 603.0 nm; acquisition mode spinning disk confocal; pinhole 50.0 um; acquisition date 2023-07-09 13:12:53.978998-04:00",
+  "SampleStaining": [
+    "Mfge8 RNA",
+    "DAPI (nuclear stain)"
+  ],
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round imaging; this file is the maximum intensity projection of one channel. Channel 1 = marker; channel 2 = DAPI from the same acquisition (for registration across rounds).",
+  "OtherAcquisitionParameters": "epithelial well; channel RED (561 Laser); laser 561 nm; excitation 561.0 nm; emission 603.0 nm; acquisition mode spinning disk confocal; pinhole 50.0 um; acquisition date 2023-07-09 13:12:53.978998-04:00 | channel 2: DAPI (405 Laser), DAPI imaged in the same acquisition as channel 1, included for cross-round registration",
   "SourceFile": "20230709_115709_958__Count00000_ChannelFAR RED (640 Laser),RED (561 Laser),GREEN (488 Laser),DAPI (405 Laser)_Seq0001-MaxIP.nd2",
-  "SourceChannelIndex": 1
+  "SourceChannelIndex": [
+    1,
+    3
+  ]
 }

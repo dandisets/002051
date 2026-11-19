@@ -2,5 +2,8 @@ Py2T multiplexing
 
 Two wells (epithelial, mesenchymal) of Py2T cells imaged over sequential staining rounds
 on a Nikon spinning-disk confocal (60x/1.4 oil, 0.108 um/px), 4 channels per round
-(640, 561, 488, 405 nm). Each file is a single-channel maximum intensity projection.
+(640, 561, 488, 405 nm). Each file is a maximum intensity projection.
 Stain labels end in RNA or Protein; WGA = wheat germ agglutinin; DAPI = nuclei.
+Each marker file has 2 channels: channel 1 is the marker, channel 2 is the DAPI image
+from the same acquisition, included so images from different rounds can be registered
+to each other. Files with stain-DAPI contain only DAPI.
