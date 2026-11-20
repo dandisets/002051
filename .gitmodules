@@ -1,0 +1,4 @@
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-BRN2Protein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-BRN2Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/54b40a5f-3a27-4bef-94aa-f15f5ae49a7d
+	datalad-id = 361d64d7-9233-42e6-bb12-529255550fba

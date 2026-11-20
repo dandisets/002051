@@ -1,0 +1,10 @@
+200um mouse brain volumetric multiplexing
+
+One 200 um thick mouse brain slice imaged in 3D over sequential protein staining rounds
+on a light-sheet microscope (3.6x / NA 0.2 detection, 1.757 um/px in x and y, 1.24 um z step).
+Each volume is deskewed, stitched and flat-field corrected (full stitched field, not cropped).
+Volumes are not registered across rounds.
+Files are multiscale OME-Zarr (NGFF 0.4, 6 resolution levels, 2x2x2 mean downsampling).
+Each file has 2 channels: channel 1 is the marker (stain label ends in Protein), channel 2 is
+the POPO-1 nuclear stain (405 nm excitation) from the same acquisition, in the same voxel frame,
+included so volumes from different rounds can be registered to each other.
