@@ -54,3 +54,7 @@
 	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-ALDH1L1Protein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/8974b1cb-49dd-4e83-a201-473eded65603
 	datalad-id = dbb6e84c-998a-4c0d-b790-f51fce38d8f5
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-NDRG1Protein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-NDRG1Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/7d17247d-f6fd-4588-8068-1625fd2f3be7
+	datalad-id = 43a7fe56-5125-4599-a5b4-35ba46bfba2f
