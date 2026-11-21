@@ -26,3 +26,11 @@
 	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-sox10Protein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/8608da16-c655-4754-9d4b-e6399cadba56
 	datalad-id = d398d556-443f-42cf-9c96-7a7f937a4227
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-GFAPProtein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-GFAPProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/43b545bc-2a7b-48dd-8da8-db92d735a1cb
+	datalad-id = 849f0aee-2159-4bb3-ad85-3ba38bf9b66b
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-NeuNProtein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-NeuNProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/1e1b1603-1694-4621-9ae3-e69c4615cb7c
+	datalad-id = f6382492-99c6-4289-a769-f89fb2c21a4a
