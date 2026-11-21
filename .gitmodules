@@ -74,3 +74,7 @@
 	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-CHATProtein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/85bdb317-20ec-4d31-a1f6-77214d077dbf
 	datalad-id = 8d4a8386-c439-4e97-8a09-b5c8f03c2246
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-MbpProtein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-MbpProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/6eb9d7c9-5c23-45f0-8e4a-192ff1a7da4b
+	datalad-id = 160b654a-e84b-43c5-a500-b5cb69f4d8a5
