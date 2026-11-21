@@ -13,9 +13,12 @@ assetsSummary:
   - identifier: RRID:SCR_016124
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
+  - identifier: DOI:10.25504/FAIRsharing.9af712
+    name: OME/NGFF Standard
+    schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 116943034698
-  numberOfFiles: 249
+  numberOfBytes: 236638981529
+  numberOfFiles: 250
   numberOfSamples: 4
   numberOfSubjects: 3
   schemaKey: AssetsSummary

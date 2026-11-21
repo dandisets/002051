@@ -1,0 +1,19 @@
+{
+  "PixelSize": [
+    1.757,
+    1.757,
+    1.24
+  ],
+  "PixelSizeUnits": "um",
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": [
+    "NOVA1 protein",
+    "POPO-1 (nuclear stain)"
+  ],
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round light-sheet imaging of one 200 um thick mouse brain slice. Deskewed, stitched and flat-field corrected 3D volume (full stitched field, not cropped, not registered across rounds). Channel 1 = marker; channel 2 = POPO-1 nuclear stain from the same acquisition, in the same voxel frame, for registration across rounds.",
+  "OtherAcquisitionParameters": "channel 1: 639 nm excitation; channel 2: 405 nm excitation (POPO-1), imaged in the same acquisition as channel 1",
+  "NumericalAperture": 0.2,
+  "Magnification": 3.6,
+  "SoftwareVersions": "converted from stitched TIFF slices with tifffile 2026.5.15 + zarr 3.4.2 (OME-Zarr 0.4, 6-level 2x2x2 mean pyramid)"
+}
