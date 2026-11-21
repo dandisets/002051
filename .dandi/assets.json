@@ -722,7 +722,7 @@
 "blobDateModified":
 "2026-11-20T16:56:26.480000-05:00",
 "contentSize":
-0,
+119695946831,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/37b2bfe3-f9d9-48f4-b72c-5a384af0ea79/download/",
@@ -733,7 +733,7 @@
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"ab0ac90a879167ebaa3212f1442046e3-38898--119695946831"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -790,11 +790,11 @@ null
 ]
 },
 "modified":
-"2026-11-20T22:15:38.944987Z",
+"2026-11-21T01:19:54.306207Z",
 "path":
 "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-BRN2Protein_SPIM.ome.zarr",
 "size":
-0,
+119695946831,
 "zarr":
 "54b40a5f-3a27-4bef-94aa-f15f5ae49a7d"
 },
