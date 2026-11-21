@@ -58,3 +58,7 @@
 	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-NDRG1Protein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/7d17247d-f6fd-4588-8068-1625fd2f3be7
 	datalad-id = 43a7fe56-5125-4599-a5b4-35ba46bfba2f
+[submodule "200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-cFOSProtein_SPIM.ome.zarr"]
+	path = 200um mouse brain volumetric multiplexing/sub-mouse02/micr/sub-mouse02_sample-slice01_stain-cFOSProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/6221d40a-0346-49b5-b5bb-f6fa1e087c3a
+	datalad-id = 925f7418-0c6e-4725-844f-5d347e1ed50f
