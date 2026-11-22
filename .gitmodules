@@ -142,3 +142,15 @@
 	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CD31Protein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/220796c4-5a81-455c-acc3-794413d57cf4
 	datalad-id = bb0c5870-9f26-462c-8fab-dfe1c9ac8983
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-GLUT1Protein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-GLUT1Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/77efaca9-8d48-47fd-ab23-252ce67a59b8
+	datalad-id = 8497f603-4f65-4098-9e45-f34ad2aac6d9
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-LaminACProtein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-LaminACProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/282a4c6b-8df0-4b50-a945-18dd1aa59c70
+	datalad-id = ae8fa1f1-ea93-4161-b235-d7dfcf1b8cdc
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-NDRG1Protein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-NDRG1Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/ab320fee-b72a-48a0-8bb9-6de6153ebf2e
+	datalad-id = da15e9a8-8082-48f3-bb70-ce6112259e73
