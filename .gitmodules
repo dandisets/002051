@@ -126,3 +126,11 @@
 	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-NeuNProtein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/1b82aea9-8d40-4a2d-99d0-9494b5b7f9f7
 	datalad-id = a9e5686c-fa3a-41d8-975d-e1b00b9621d1
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-ATP5A1Protein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-ATP5A1Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/6bc38c12-6b2c-47a4-84a0-3590dfdf49ea
+	datalad-id = 4b9cd918-fb2f-40d8-ad33-a17e917b85a1
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-TARDBPProtein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-TARDBPProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/05f64b19-35fe-418a-b6bc-d8cccce4aefe
+	datalad-id = bce4f61a-9eec-471b-b8c3-f3c3a68bdbef
