@@ -118,3 +118,7 @@
 	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CalbindinProtein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/b6f5547f-b0ec-4dbf-80e3-0cdb7db8dd38
 	datalad-id = 312648cf-f271-4991-ba65-a4f4dbc924e1
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-NOVA1Protein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-NOVA1Protein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/e8800164-353d-4680-834e-7d7466443995
+	datalad-id = 4b225521-f489-49bc-b3f2-abbfecddb7f6
