@@ -134,3 +134,7 @@
 	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-TARDBPProtein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/05f64b19-35fe-418a-b6bc-d8cccce4aefe
 	datalad-id = bce4f61a-9eec-471b-b8c3-f3c3a68bdbef
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-VIMProtein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-VIMProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/fe0aae08-01af-4023-bbe1-7fcad33c27a8
+	datalad-id = 06431c71-50c4-4bdc-ba83-86031aac2b64
