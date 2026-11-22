@@ -1,0 +1,19 @@
+{
+  "PixelSize": [
+    1.8,
+    1.8,
+    1.273
+  ],
+  "PixelSizeUnits": "um",
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": [
+    "TH protein",
+    "Histone H3 protein"
+  ],
+  "ImageAcquisitionProtocol": "Multiplexed sequential-round light-sheet imaging of one 1 mm thick mouse brain slice. Destriped, deskewed and stitched 3D volume (full stitched field, not cropped, not registered across rounds). Channel 1 = marker; channel 2 = Histone H3 protein from the same acquisition, in the same voxel frame, for registration across rounds.",
+  "OtherAcquisitionParameters": "channel 1: 639 nm excitation; channel 2: 488 nm excitation (Histone H3), imaged in the same acquisition as channel 1",
+  "NumericalAperture": 0.2,
+  "Magnification": 3.6,
+  "SoftwareVersions": "converted from stitched TIFF slices with tifffile 2026.5.15 + zarr 3.4.2 (OME-Zarr 0.4, 6-level 2x2x2 mean pyramid)"
+}

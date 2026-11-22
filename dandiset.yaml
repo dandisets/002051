@@ -17,8 +17,8 @@ assetsSummary:
     name: OME/NGFF Standard
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 3164931141011
-  numberOfFiles: 299
+  numberOfBytes: 3198443728457
+  numberOfFiles: 302
   numberOfSamples: 4
   numberOfSubjects: 4
   schemaKey: AssetsSummary
