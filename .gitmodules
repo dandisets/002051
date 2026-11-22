@@ -110,3 +110,11 @@
 	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-GFAPProtein_SPIM.ome.zarr
 	url = https://github.com/dandizarrs/d80cbf31-6af6-48dd-8668-68640fedddae
 	datalad-id = 99b1fd90-b513-4330-9d76-4f4725a9c500
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CalretininProtein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CalretininProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/b239f2fd-f6ed-4fb4-9ab0-daeea20ac0df
+	datalad-id = 25a48364-9543-4829-9b9b-6faeb785174b
+[submodule "1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CalbindinProtein_SPIM.ome.zarr"]
+	path = 1mm mouse brain volumetric multiplexing/sub-mouse03/micr/sub-mouse03_sample-slice01_stain-CalbindinProtein_SPIM.ome.zarr
+	url = https://github.com/dandizarrs/b6f5547f-b0ec-4dbf-80e3-0cdb7db8dd38
+	datalad-id = 312648cf-f271-4991-ba65-a4f4dbc924e1
